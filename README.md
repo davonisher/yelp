@@ -6,7 +6,7 @@ This project explores the impact of culinary diversity on the effectiveness of d
 
 ## Project Description
 
-The project aims to understand the influence of diverse and less diverse culinary environments on recommendation accuracy. Through the use of cosine similarity measures and root mean square error (RMSE) evaluations, we compare the prediction effectiveness of KNN and SVD algorithms in both high-diversity and low-diversity gastronomy subsets.
+The project aims to understand the influence of diverse and less diverse culinary environments on recommendation accuracy. We test an hypothesis on cosine similarity measures and do root mean square error (RMSE) evaluations, so we can compare the prediction effectiveness of KNN and SVD algorithms in both high-diversity and low-diversity gastronomy subsets.
 
 ### Dependencies
 
